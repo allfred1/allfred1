@@ -20,7 +20,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ## Social
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/your-twitter/)
-📧 your-email@example.com
-
+[![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/berezko)
+[![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)](https://discord.com/users/oldiberezko)
+[![VK](https://img.shields.io/badge/-VK-333333?style=flat&logo=vk)](https://vk.com/oldiberezko)
