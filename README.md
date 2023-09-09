@@ -74,6 +74,8 @@
 ![VPN](https://img.shields.io/badge/-VPN-000000?style=for-the-badge&logo=vpn&logoColor=white)
 ![PROXY](https://img.shields.io/badge/-PROXY-000000?style=for-the-badge&logo=proxy&logoColor=white)
 ![IP](https://img.shields.io/badge/-IP-000000?style=for-the-badge&logo=ip&logoColor=white)
+![UTF](https://img.shields.io/badge/-UTF-000000?style=for-the-badge&logo=ip&logoColor=white)
+![ASCII](https://img.shields.io/badge/-ASCII-000000?style=for-the-badge&logo=ip&logoColor=white)
 
 
 
