@@ -77,6 +77,9 @@
 ![UTF](https://img.shields.io/badge/-UTF-000000?style=for-the-badge&logo=ip&logoColor=white)
 ![ASCII](https://img.shields.io/badge/-ASCII-000000?style=for-the-badge&logo=ip&logoColor=white)
 
+## Favorite subjects at school
+![PHYSICS](https://img.shields.io/badge/-PHYSICS-000000?style=for-the-badge)
+![INFORMATICS](https://img.shields.io/badge/-INFORMATICS-000000?style=for-the-badge)
 
 
 ## Social
