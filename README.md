@@ -4,6 +4,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SkriptLang](https://img.shields.io/badge/-SkriptLang-ADD8E6?style=flat-square)
+
+
 
 ## Frameworks
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -20,6 +24,11 @@
 ![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat-square&logo=gitea&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe_XD](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat-square&logo=adobe-xd&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![YML](https://img.shields.io/badge/-YML-000000?style=flat-square&logo=yaml&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/-Cursor_IDE-000000?style=flat-square&logo=cursor&logoColor=white)
 
 ## Minecraft Cores
 ![Paper](https://img.shields.io/badge/-Paper-FF0000?style=flat-square)
@@ -35,9 +44,7 @@
 ![NullCord](https://img.shields.io/badge/-NullCord-808080?style=flat-square)
 ![FlameCord](https://img.shields.io/badge/-FlameCord-FF4500?style=flat-square)
 
-
 ## Social
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram)](https://t.me/berezko)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord)](https://discord.com/users/oldiberezko)
 [![VK](https://img.shields.io/badge/-VK-4F7DB3?style=flat-square&logo=vk)](https://vk.com/oldiberezko)
-
