@@ -57,6 +57,11 @@
 ![Codeium](https://img.shields.io/badge/-Codeium-000000?style=for-the-badge)
 ![Tabnine](https://img.shields.io/badge/-Tabnine-000000?style=for-the-badge)
 
+## Linux
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-000000?style=for-the-badge&logo=nginx&logoColor=white)
+
+
 ## Social
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/berezko)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord)](https://discord.com/users/oldiberezko)
