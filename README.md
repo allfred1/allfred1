@@ -1,27 +1,27 @@
 ## Languages
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![GoLang](https://img.shields.io/badge/-GoLang-000000?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GoLang](https://img.shields.io/badge/-GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SkriptLang](https://img.shields.io/badge/-SkriptLang-000000?style=for-the-badge)
 
 ## Frameworks
-![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Asyncio](https://img.shields.io/badge/-Asyncio-000000?style=for-the-badge&logo=python&logoColor=white)
+![Asyncio](https://img.shields.io/badge/-Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Tools
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-000000?style=for-the-badge&logo=bitbucket)
-![Gitea](https://img.shields.io/badge/-Gitea-000000?style=for-the-badge&logo=gitea&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe_XD](https://img.shields.io/badge/-Adobe_XD-000000?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=for-the-badge&logo=bitbucket)
+![Gitea](https://img.shields.io/badge/-Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe_XD](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![YML](https://img.shields.io/badge/-YML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
@@ -62,7 +62,23 @@
 ![NGINX](https://img.shields.io/badge/-NGINX-000000?style=for-the-badge&logo=nginx&logoColor=white)
 
 
+## Windows
+![Hyper-V](https://img.shields.io/badge/-Hyper--V-000000?style=for-the-badge&logo=microsoft&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-000000?style=for-the-badge&logo=vmware&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white)
+![Bat](https://img.shields.io/badge/-Bat-000000?style=for-the-badge&logo=bat&logoColor=white)
+![TCP](https://img.shields.io/badge/-TCP-000000?style=for-the-badge&logo=tcp&logoColor=white)
+![DNS](https://img.shields.io/badge/-DNS-000000?style=for-the-badge&logo=dns&logoColor=white)
+![UDP](https://img.shields.io/badge/-UDP-000000?style=for-the-badge&logo=udp&logoColor=white)
+![DHCP](https://img.shields.io/badge/-DHCP-000000?style=for-the-badge&logo=dhcp&logoColor=white)
+![VPN](https://img.shields.io/badge/-VPN-000000?style=for-the-badge&logo=vpn&logoColor=white)
+![PROXY](https://img.shields.io/badge/-PROXY-000000?style=for-the-badge&logo=proxy&logoColor=white)
+![IP](https://img.shields.io/badge/-IP-000000?style=for-the-badge&logo=ip&logoColor=white)
+
+
+
 ## Social
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/berezko)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord)](https://discord.com/users/oldiberezko)
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/oldiberezko)
+
