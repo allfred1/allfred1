@@ -1,8 +1,6 @@
 
 # Hi, my name is oldiBerezko. 👋
 
-Привет! Меня зовут Имя Фамилия. 
-
 Моя история в IT началась в 2019-2020 годах, когда мне впервые задали вопрос: "Почему бы тебе не попробовать себя в IT?". Это заинтересовало меня, и я начал следить за новостями в этой сфере и изучать опыт других людей. 
 
 Первым языком программирования, который я попробовал, был Java, но он мне не очень понравился. Позже я разобрался в разных направлениях IT и выбрал веб-разработку. Моя текущая цель - стать Middle-разработчиком.
@@ -50,7 +48,6 @@
 ![Adobe_XD](https://img.shields.io/badge/-Adobe_XD-000000?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-## COMMAND WORK
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-000000?style=for-the-badge&logo=bitbucket&logoColor=white)
