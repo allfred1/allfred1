@@ -1,3 +1,8 @@
+
+# Hi, my name is oldiBerezko. 👋
+
+I am a beginner web developer from Uzbekistan. I'm currently studying Vue.js, JavaScript and other web technologies.
+
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,7 +19,7 @@
 ![PINIA](https://img.shields.io/badge/-PINIA-000000?style=for-the-badge)
 ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge)
 ![BEM](https://img.shields.io/badge/-BEM-000000?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ## Frameworks
@@ -22,35 +27,32 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Asyncio](https://img.shields.io/badge/-Asyncio-000000?style=for-the-badge&logo=python&logoColor=white)
 
+## IDE 
+![Cursor IDE](https://img.shields.io/badge/-Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 ## Tools
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Gitea](https://img.shields.io/badge/-Gitea-000000?style=for-the-badge&logo=gitea&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![YML](https://img.shields.io/badge/-YML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+
+## DESIGN 
+![Adobe_XD](https://img.shields.io/badge/-Adobe_XD-000000?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+## COMMAND WORK
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-000000?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Gitea](https://img.shields.io/badge/-Gitea-000000?style=for-the-badge&logo=gitea&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe_XD](https://img.shields.io/badge/-Adobe_XD-000000?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![YML](https://img.shields.io/badge/-YML-000000?style=for-the-badge&logo=yaml&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Cursor IDE](https://img.shields.io/badge/-Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-## Minecraft Cores
-![Paper](https://img.shields.io/badge/-Paper-000000?style=for-the-badge)
-![CraftBukkit](https://img.shields.io/badge/-CraftBukkit-000000?style=for-the-badge)
-![Purpur](https://img.shields.io/badge/-Purpur-000000?style=for-the-badge)
-![Folia](https://img.shields.io/badge/-Folia-000000?style=for-the-badge)
-![Plasmo](https://img.shields.io/badge/-Plasmo-000000?style=for-the-badge)
-![Bukkit](https://img.shields.io/badge/-Bukkit-000000?style=for-the-badge)
-![Pufferfish](https://img.shields.io/badge/-Pufferfish-000000?style=for-the-badge)
-![WindSpigot](https://img.shields.io/badge/-WindSpigot-000000?style=for-the-badge)
-![Velocity](https://img.shields.io/badge/-Velocity-000000?style=for-the-badge)
-![BungeeCord](https://img.shields.io/badge/-BungeeCord-000000?style=for-the-badge)
-![NullCord](https://img.shields.io/badge/-NullCord-000000?style=for-the-badge)
-![FlameCord](https://img.shields.io/badge/-FlameCord-000000?style=for-the-badge)
+
+## DB
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
+
 
 ## AI TOOLS
 ![LLama](https://img.shields.io/badge/-LLama-000000?style=for-the-badge)
@@ -91,6 +93,8 @@
 ![PHYSICS](https://img.shields.io/badge/-PHYSICS-000000?style=for-the-badge)
 ![INFORMATICS](https://img.shields.io/badge/-INFORMATICS-000000?style=for-the-badge)
 
+## EDUCATION
+SOON.
 
 ## Social
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/berezko)
