@@ -1,11 +1,21 @@
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![GoLang](https://img.shields.io/badge/-GoLang-000000?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![SkriptLang](https://img.shields.io/badge/-SkriptLang-000000?style=for-the-badge)
+
+## Learning
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vuex](https://img.shields.io/badge/-Vuex-000000?style=for-the-badge&logo=vuex&logoColor=white)
+![Vue Router](https://img.shields.io/badge/-Vue%20Router-000000?style=for-the-badge&logo=vue-router&logoColor=white)
+![API](https://img.shields.io/badge/-API-000000?style=for-the-badge)
+![PINIA](https://img.shields.io/badge/-PINIA-000000?style=for-the-badge)
+![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge)
+![BEM](https://img.shields.io/badge/-BEM-000000?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## Frameworks
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=white)
