@@ -1,6 +1,8 @@
 
 # Hi, my name is oldiBerezko. 👋
 
+Привет! Меня зовут Имя Фамилия. 
+
 Моя история в IT началась в 2019-2020 годах, когда мне впервые задали вопрос: "Почему бы тебе не попробовать себя в IT?". Это заинтересовало меня, и я начал следить за новостями в этой сфере и изучать опыт других людей. 
 
 Первым языком программирования, который я попробовал, был Java, но он мне не очень понравился. Позже я разобрался в разных направлениях IT и выбрал веб-разработку. Моя текущая цель - стать Middle-разработчиком.
@@ -35,19 +37,16 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Asyncio](https://img.shields.io/badge/-Asyncio-000000?style=for-the-badge&logo=python&logoColor=white)
 
-## IDE 
+## TOOLS 
 ![Cursor IDE](https://img.shields.io/badge/-Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-## Tools
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Gitea](https://img.shields.io/badge/-Gitea-000000?style=for-the-badge&logo=gitea&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![YML](https://img.shields.io/badge/-YML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 
-## DESIGN 
 ![Adobe_XD](https://img.shields.io/badge/-Adobe_XD-000000?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -62,27 +61,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
 
 
-## AI TOOLS
-![LLama](https://img.shields.io/badge/-LLama-000000?style=for-the-badge)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=for-the-badge)
-![ChatGPT 3.5](https://img.shields.io/badge/-ChatGPT_3.5-000000?style=for-the-badge)
-![ChatGPT 4](https://img.shields.io/badge/-ChatGPT_4-000000?style=for-the-badge)
-![YouChat](https://img.shields.io/badge/-YouChat-000000?style=for-the-badge)
-![Microsoft Bing Chat](https://img.shields.io/badge/-Microsoft_Bing_Chat-000000?style=for-the-badge)
-![Perplexity](https://img.shields.io/badge/-Perplexity-000000?style=for-the-badge)
-![Notion AI](https://img.shields.io/badge/-Notion_AI-000000?style=for-the-badge)
-![Google Bard](https://img.shields.io/badge/-Google_Bard-000000?style=for-the-badge)
-![Microsoft Desginer](https://img.shields.io/badge/-Microsoft_Desginer-000000?style=for-the-badge)
-![Brandmark](https://img.shields.io/badge/-Brandmark-000000?style=for-the-badge)
-![Codeium](https://img.shields.io/badge/-Codeium-000000?style=for-the-badge)
-![Tabnine](https://img.shields.io/badge/-Tabnine-000000?style=for-the-badge)
-
-## Linux
+## Operating systems
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![NGINX](https://img.shields.io/badge/-NGINX-000000?style=for-the-badge&logo=nginx&logoColor=white)
-
-
-## Windows
+![NGINX](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=nginx&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/-Hyper--V-000000?style=for-the-badge&logo=microsoft&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-000000?style=for-the-badge&logo=vmware&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white)
@@ -97,16 +79,12 @@
 ![UTF](https://img.shields.io/badge/-UTF-000000?style=for-the-badge&logo=ip&logoColor=white)
 ![ASCII](https://img.shields.io/badge/-ASCII-000000?style=for-the-badge&logo=ip&logoColor=white)
 
-## Favorite subjects at school
-![PHYSICS](https://img.shields.io/badge/-PHYSICS-000000?style=for-the-badge)
-![INFORMATICS](https://img.shields.io/badge/-INFORMATICS-000000?style=for-the-badge)
+
 
 ## EDUCATION
-SOON.
+-- Self-education
 
 ## Social
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/berezko)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord)](https://discord.com/users/oldiberezko)
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/oldiberezko)
-
-
