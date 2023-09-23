@@ -80,6 +80,7 @@
 
 ## EDUCATION
 -- Self-education
+-- Training in a professional training center.
 
 ## Social
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/berezko)
