@@ -15,10 +15,11 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![SkriptLang](https://img.shields.io/badge/-SkriptLang-000000?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=white)
 
 ## Learning
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Vuex](https://img.shields.io/badge/-Vuex-000000?style=for-the-badge&logo=vuex&logoColor=white)
