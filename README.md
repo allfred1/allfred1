@@ -25,10 +25,6 @@
 ## TOOLS 
 ![Cursor IDE](https://img.shields.io/badge/-Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![YML](https://img.shields.io/badge/-YML-000000?style=for-the-badge&logo=yaml&logoColor=white)
-
 ![Adobe_XD](https://img.shields.io/badge/-Adobe_XD-000000?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
