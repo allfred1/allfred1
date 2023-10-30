@@ -10,7 +10,6 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![VanilaJS](https://img.shields.io/badge/-VanilaJS-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![BEM](https://img.shields.io/badge/-BEM-000000?style=for-the-badge)
 
 
 ## Изучаю
