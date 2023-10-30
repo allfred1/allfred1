@@ -8,17 +8,11 @@
 ![SkriptLang](https://img.shields.io/badge/-SkriptLang-000000?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![VanilaJS](https://img.shields.io/badge/-VanilaJS-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 ## Изучаю
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
-![Vuex](https://img.shields.io/badge/-Vuex-000000?style=for-the-badge&logo=vuex&logoColor=white)
-![Vue Router](https://img.shields.io/badge/-Vue%20Router-000000?style=for-the-badge&logo=vue-router&logoColor=white)
-![API](https://img.shields.io/badge/-API-000000?style=for-the-badge)
-![PINIA](https://img.shields.io/badge/-PINIA-000000?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 
 
