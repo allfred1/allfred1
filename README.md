@@ -1,4 +1,5 @@
 <body id="top">  
+---
 # Привет, меня зовут oldiBerezko. 👋
 
 
@@ -43,6 +44,9 @@
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord)](https://discord.com/users/oldiberezko)
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/oldiberezko)
 
+
+<p>
 <figure><embed src="https://wakatime.com/share/@5dd2f304-d0ff-47a7-85b6-860ebfc4bfe4/7e676047-408a-47fa-999e-0180abc5bc44.svg"></embed></figure>
+</p>
 ---
 </body>
