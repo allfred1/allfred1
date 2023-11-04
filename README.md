@@ -48,5 +48,10 @@
 <p>
 <figure><img src="https://wakatime.com/share/@5dd2f304-d0ff-47a7-85b6-860ebfc4bfe4/7e676047-408a-47fa-999e-0180abc5bc44.svg"></figure>
 </p>
+
+# All times
+<p> 
+<figure> <img src="https://wakatime.com/share/@5dd2f304-d0ff-47a7-85b6-860ebfc4bfe4/56db83e2-0f7f-401b-8217-1af76b8e0205.svg"></figure>
+</p>
 ---
 </body>
