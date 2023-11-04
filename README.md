@@ -46,7 +46,7 @@
 
 
 <p>
-<figure><embed src="https://wakatime.com/share/@5dd2f304-d0ff-47a7-85b6-860ebfc4bfe4/7e676047-408a-47fa-999e-0180abc5bc44.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@5dd2f304-d0ff-47a7-85b6-860ebfc4bfe4/7e676047-408a-47fa-999e-0180abc5bc44.svg"></figure>
 </p>
 ---
 </body>
