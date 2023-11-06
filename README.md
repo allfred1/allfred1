@@ -16,7 +16,7 @@
 ![VanilaJS](https://img.shields.io/badge/-VanilaJS-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-
+[+] "" Без примера ничему не выучишься. Ян Амос Коменский. Вечным законом да будет: учить и учиться всему через примеры, наставления и применение на деле. - ..  Ян Амос Коменский: 
 
 ## Инструменты 
 ![Cursor IDE](https://img.shields.io/badge/-Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
