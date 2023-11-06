@@ -2,11 +2,8 @@
 # Привет, меня зовут oldiBerezko. 👋
 
 ## Языки
-- ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white)
 - ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
-- ![SkriptLang](https://img.shields.io/badge/-SkriptLang-000000?style=for-the-badge)
 - ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
-- ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=white)
 - ![VanilaJS](https://img.shields.io/badge/-VanilaJS-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Изучаю
@@ -21,6 +18,7 @@
 - ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000000?style=for-the-badge&logo=adobe-xd&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 - ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
+- ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=white)
 
 ## Операционные системы
 - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
