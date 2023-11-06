@@ -17,7 +17,6 @@
   *Вечным законом да будет: учить и учиться всему через примеры, наставления и применение на деле.*
   
 ## Инструменты 
-- ![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
 - ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000000?style=for-the-badge&logo=adobe-xd&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
@@ -30,7 +29,8 @@
 ## Образование
 - Самообразование
 - Обучение в профессиональном учебном центре.
-
+- Обучение в MetaLamp (frontend).
+- 
 ## Социальные сети
 - [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/berezko)
 - [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord)](https://discord.com/users/oldiberezko)
