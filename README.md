@@ -27,7 +27,6 @@
 ## Образование
 - Самообразование
 - Обучение в профессиональном учебном центре.
-- Обучение в MetaLamp (frontend).
 - 
 ## Социальные сети
 - [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/berezko)
