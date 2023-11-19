@@ -4,21 +4,18 @@
 ## Языки
 - ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
-- ![VanilaJS](https://img.shields.io/badge/-VanilaJS-000000?style=for-the-badge&logo=javascript&logoColor=white)
+- ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=white)
 
 ## Изучаю
 - ![VanilaJS](https://img.shields.io/badge/-VanilaJS-000000?style=for-the-badge&logo=javascript&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-- *Без примера ничему не выучишься. Ян Амос Коменский.*  
-  *Вечным законом да будет: учить и учиться всему через примеры, наставления и применение на деле.*
   
 ## Инструменты 
 - ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000000?style=for-the-badge&logo=adobe-xd&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 - ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
-- ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=white)
 
 ## Операционные системы
 - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
