@@ -9,7 +9,6 @@
 ## Изучаю
 - ![VanilaJS](https://img.shields.io/badge/-VanilaJS-000000?style=for-the-badge&logo=javascript&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
   
 ## Инструменты 
 - ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
