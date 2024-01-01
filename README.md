@@ -8,11 +8,13 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Фронтенд
+
+
+## Изучаю
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
 - ![React.js](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=react&logoColor=white)
-
-## Бэкенд
 - ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white) 
 - ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
@@ -34,8 +36,6 @@
 
 
 ## Социальные сети
-```
 - [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/berezko)
 - [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord)](https://discord.com/users/oldiberezko)
 - [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/oldiberezko)
-```
