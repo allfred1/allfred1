@@ -6,7 +6,6 @@
 - ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 - ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 
@@ -24,6 +23,7 @@
 - ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 - ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ## Операционные системы
 - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
