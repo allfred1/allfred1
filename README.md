@@ -24,6 +24,8 @@
 - ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
+- ![Vite](https://img.shields.io/badge/-Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
+
 
 ## Операционные системы
 - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
