@@ -12,7 +12,6 @@
 ## Изучаю
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
 - ![React.js](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=react&logoColor=white)
 
 ## Инструменты 
