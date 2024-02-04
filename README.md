@@ -7,13 +7,17 @@
 - ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 - ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 
 ## Изучаю
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 - ![React.js](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=react&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=for-the-badge&logo=Ruby&logoColor=white)
+
+
+
 
 ## Инструменты 
 - ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
