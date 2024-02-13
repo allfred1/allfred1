@@ -7,7 +7,10 @@
 - ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 - ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-- ![React query](https://img.shields.io/badge/-React-Query-000000?style=for-the-badge&logo=REactQuery&logoColor=white)
+- ![React Query](https://img.shields.io/badge/-React_Query-000000?style=for-the-badge&logo=reactquery&logoColor=white)
+
+
+
 
 
 
