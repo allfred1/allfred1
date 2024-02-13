@@ -7,6 +7,7 @@
 - ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 - ![SCSS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SCSS&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+- ![React query](https://img.shields.io/badge/-React-Query-000000?style=for-the-badge&logo=REactQuery&logoColor=white)
 
 
 
@@ -14,7 +15,6 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 - ![React.js](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=react&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=for-the-badge&logo=Ruby&logoColor=white)
 
 
 
